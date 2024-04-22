@@ -11,4 +11,5 @@ else{
     li.innerHTML = inputBox.value;
     listContainer.appendChild(li);
 }
+    inputBox.value = "";
 }
